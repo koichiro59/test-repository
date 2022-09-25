@@ -1,0 +1,40 @@
+.pass{
+  font-size: x-large;
+  color: #603162;
+  transform: translate(-70px,10px);
+}
+
+.input{
+  height: 35px;
+  border-radius: 7px;
+  text-align: center;
+  transform: translate(50px,10px);
+}
+
+.btn{
+  height: 35px;
+  border-radius: 7px;
+  transform: translate(54px,10px);
+}
+
+.table{
+  width: 1150px;
+  border: 2px #603162 solid;
+  border-collapse: collapse;
+  table-layout: fixed;
+  margin: 0 40px 0 40px;
+}
+
+.table th{
+  font-size: small;
+  background-color: #9E8DB3;
+  border: 1px black solid;
+  padding: 10px 0;
+}
+
+.table td{
+  font-size: small;
+  text-align: center;
+  border: 1px black solid;
+  padding: 10px 0;
+}

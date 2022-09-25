@@ -1,0 +1,17 @@
+*{
+  background-color: #8EE3C8;
+}
+
+.Title{
+  width: 400px;
+  height: 80px;
+  font-size: xx-large;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #603162;
+  margin-left: 50px;
+  border:none;
+}
+
+.App{
+  text-align: center;
+}

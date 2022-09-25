@@ -1,0 +1,47 @@
+.btn{
+    width: 400px;
+    height: 60px;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #603162;
+    border-radius: 5%;
+    border: whitesmoke,solid,4px;
+    border-color: whitesmoke;
+    margin-top: 40px;
+}
+
+.text{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    color:#603162;
+    text-align: left;
+    transform: translate(500px,-20px);
+    margin-top: 20px;
+}
+
+.submit{    
+    width: 220px;
+    height: 40px;
+    text-align: center;
+    border: 2;
+    border-color: #603162;
+    border-radius: 7%;
+    transform: translate(-25px,-50px);
+}
+
+.radio{
+    transform: translate(-40px,-50px);
+}
+
+.submitbtn{
+    width: 220px;
+    height: 60px;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #603162;
+    border-radius: 5%;
+    border: whitesmoke,solid,4px;
+    border-color: whitesmoke;
+    margin-top: 40px;
+    transform: translate(-23px,-50px);
+}

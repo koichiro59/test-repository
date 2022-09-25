@@ -1,0 +1,44 @@
+{
+  "person": [
+    {
+      "id": 0,
+      "name": "佐藤博",
+      "age": 24,
+      "gender": "男性"
+    },
+    {
+      "id": 1,
+      "name": "鈴木孝弘",
+      "age": "20",
+      "gender": "男性"
+    }
+  ],
+  "score": [
+    {
+      "id": 0,
+      "akuryoku": 35,
+      "zyoutai": 30,
+      "tyouza": 50,
+      "tankyori": 7.5,
+      "tyoukyori": 600,
+      "hanpuku": 55,
+      "tatihaba": 200,
+      "sohuto": 20,
+      "goukei": 37,
+      "rank": "D"
+    },
+    {
+      "id": 1,
+      "akuryoku": "30",
+      "zyoutai": "30",
+      "tyouza": "30",
+      "tankyori": "30",
+      "tyoukyori": "30",
+      "hanpuku": "30",
+      "tatihaba": "30",
+      "sohuto": "30",
+      "goukei": 41,
+      "rank": "E"
+    }
+  ]
+}

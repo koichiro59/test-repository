@@ -1,0 +1,33 @@
+.btn{
+    display: flex;
+}
+
+.Titlebtn{
+    width: 400px;
+    height: 400px;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #603162;
+    background-color: #3E91A3;
+    border-radius: 5%;
+    border: whitesmoke,solid,4px;
+    border-color: whitesmoke;
+    margin-left: 150px;
+    margin-top: 40px;
+}
+
+.Controllbtn{
+    width: 400px;
+    height: 130px;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #603162;
+    background-color: #3E91A3;
+    border: whitesmoke,solid,4px;
+    border-radius: 5%;
+    border-color: whitesmoke;
+    margin-left: 200px;
+    margin-top: 300px;
+    transform: translate(-50px,0);
+}
+

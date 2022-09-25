@@ -1,0 +1,49 @@
+.btn{
+    width: 400px;
+    height: 60px;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #603162;
+    border-radius: 5%;
+    border: whitesmoke,solid,4px;
+    border-color: whitesmoke;
+    margin-top: 40px;
+}
+
+.code{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color:#603162;
+    text-align: left;
+    transform: translate(550px,-20px);
+}
+
+.select{
+    width: 120px;
+    height: 30px;
+    border-radius: 3%;
+    text-align: left;
+    transform: translate(-15px,-35px);
+}
+
+.message{
+    color: #603162;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    transform: translate(0,-20px);
+}
+
+.sakuzyobtn{
+    width: 160px;
+    height: 50px;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #603162;
+    border-radius: 5%;
+    border: whitesmoke,solid,4px;
+    border-color: whitesmoke;
+    margin-top: 40px;
+    transform: translate(-15px,-30px);
+}
+
+

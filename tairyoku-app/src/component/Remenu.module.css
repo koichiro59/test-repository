@@ -1,0 +1,11 @@
+.btn{
+    width: 400px;
+    height: 60px;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #603162;
+    border-radius: 5%;
+    border: whitesmoke,solid,4px;
+    border-color: whitesmoke;
+    margin-top: 40px;
+}
